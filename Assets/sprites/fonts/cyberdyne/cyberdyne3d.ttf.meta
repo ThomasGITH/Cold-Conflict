@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9c342c5c455095a459ab20f9b7d7adfb
+timeCreated: 1528601214
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cyberdyne 3D
+  fontNames:
+  - Cyberdyne 3D
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

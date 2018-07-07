@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d30fb25eb64dc844da2237e0c29fb972
+timeCreated: 1528601022
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Renegado Expanded Italic
+  fontNames:
+  - Renegado Expanded Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

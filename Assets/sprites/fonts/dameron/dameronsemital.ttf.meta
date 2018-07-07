@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2b9932721e3b69b448f55d558cff2d3c
+timeCreated: 1528601022
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dameron Semi-Italic
+  fontNames:
+  - Dameron Semi-Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

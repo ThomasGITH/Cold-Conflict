@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0c94e4e762e96044c931371a7aae0d9b
+timeCreated: 1528601022
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dameron Condensed Italic
+  fontNames:
+  - Dameron Condensed Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

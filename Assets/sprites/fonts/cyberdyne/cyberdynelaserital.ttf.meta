@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 083ef56fe7b5e3e4798a83cd7a79f91f
+timeCreated: 1528601213
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cyberdyne Laser Italic
+  fontNames:
+  - Cyberdyne Laser Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

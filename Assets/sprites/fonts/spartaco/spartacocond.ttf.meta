@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 953a54bd1cbba744ba5a140d9f55a69d
+timeCreated: 1528601123
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Spartaco Condensed
+  fontNames:
+  - Spartaco Condensed
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

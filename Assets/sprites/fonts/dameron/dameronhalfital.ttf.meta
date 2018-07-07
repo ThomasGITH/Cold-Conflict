@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2b1604bb840b8d44581b8b47b0a4a38b
+timeCreated: 1528601022
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dameron Halftone Italic
+  fontNames:
+  - Dameron Halftone Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: e05c67a21dada9e41a8f75a4e185fc3a
+timeCreated: 1527662709
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Health_Up_Sprite_0
+    21300002: Health_Up_Sprite_1
+    21300004: Health_Up_Sprite_2
+    21300006: Health_Up_Sprite_3
+    21300008: Health_Up_Sprite_4
+    21300010: Health_Up_Sprite_5
+    21300012: Health_Up_Sprite_6
+    21300014: Health_Up_Sprite_7
+    21300016: Health_Up_Sprite_8
+    21300018: Health_Up_Sprite_10
+    21300020: Health_Up_Sprite_11
+    21300022: Health_Up_Sprite_14
+    21300024: Health_Up_Sprite_16
+    21300026: Health_Up_Sprite_17
+    21300028: Health_Up_Sprite_18
+    21300030: Health_Up_Sprite_19
+    21300032: Health_Up_Sprite_20
+    21300034: Health_Up_Sprite_21
+    21300036: Health_Up_Sprite_22
+    21300038: Health_Up_Sprite_23
+    21300040: Health_Up_Sprite_24
+    21300042: Health_Up_Sprite_25
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Health_Up_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2622
+        width: 368
+        height: 909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Health_Up_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 2660
+        width: 385
+        height: 943
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Health_Up_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 2695
+        width: 320
+        height: 871
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Health_Up_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 2748
+        width: 385
+        height: 874
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Health_Up_Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 3959
+        y: 3184
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Health_Up_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 4641
+        y: 2785
+        width: 456
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Health_Up_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 3129
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Health_Up_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 2893
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Health_Up_Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 2857
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Health_Up_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 4929
+        y: 2498
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Health_Up_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 2516
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Health_Up_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 1472
+        width: 386
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Health_Up_Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1490
+        width: 441
+        height: 870
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Health_Up_Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1490
+        width: 460
+        height: 870
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Health_Up_Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 3802
+        y: 2354
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Health_Up_Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 3942
+        y: 2316
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Health_Up_Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 1416
+        width: 621
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 161}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Health_Up_Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 4767
+        y: 1346
+        width: 456
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 329}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Health_Up_Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 421
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Health_Up_Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 0
+        width: 386
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Health_Up_Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 0
+        width: 425
+        height: 787
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Health_Up_Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 0
+        width: 354
+        height: 898
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 75b1617c6fae5034f8be97420f862b60
+timeCreated: 1528601123
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Brainstorm
+  fontNames:
+  - Brainstorm
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1d74b88ce423e5749acdfc4d8187e099, type: 3}
+  - {fileID: 12800000, guid: 56229ffc499fd3941b164de648247880, type: 3}
+  - {fileID: 12800000, guid: 09ea199ec03b4184890f311810c6473f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

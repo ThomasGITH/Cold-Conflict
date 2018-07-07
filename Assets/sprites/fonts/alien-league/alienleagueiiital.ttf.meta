@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4ad83f4c0062d744ea5321bda53a89ba
+timeCreated: 1528601213
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alien League II Italic
+  fontNames:
+  - Alien League II Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

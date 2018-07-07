@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e05bb6682e8212d4782f3f095ecd14b0
+timeCreated: 1528601214
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cyberdyne Halftone Italic
+  fontNames:
+  - Cyberdyne Halftone Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

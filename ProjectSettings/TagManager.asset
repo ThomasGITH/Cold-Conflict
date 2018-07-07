@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - platform
+  - bullet
+  - enemyBullet
+  - base
+  - powerUp
+  - background
+  - enemy
+  - shield
+  - bossBullet
+  - GFL
+  - shop
+  - human_base_object
+  - Progress
+  - ship
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - enemyDetectionBox
+  - Player
+  - bullet
+  - enemyBullet
+  - base
+  - giantLaser
+  - power_up
+  - platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: stay
+    uniqueID: 46714063
+    locked: 0
+  - name: move
+    uniqueID: 3308322261
+    locked: 0

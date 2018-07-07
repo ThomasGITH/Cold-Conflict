@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9eb9069a4bcdaae428d199017dd9a5a4
+timeCreated: 1528601214
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alien League II Gradient
+  fontNames:
+  - Alien League II Gradient
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

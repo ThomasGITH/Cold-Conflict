@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ab2be1d016aa0c543895e33860f14866
+timeCreated: 1527877645
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bulletPrefab: {instanceID: 0}
+  - camera: {instanceID: 0}
+  - drop_ship: {instanceID: 0}
+  - home_base: {instanceID: 0}
+  - shootSound: {instanceID: 0}
+  - hitSound: {instanceID: 0}
+  - dyingSound: {instanceID: 0}
+  - fallSound: {fileID: 8300000, guid: 04e3c164be11526409d52771e2c63682, type: 3}
+  - track: {instanceID: 0}
+  - cursorTexture: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
